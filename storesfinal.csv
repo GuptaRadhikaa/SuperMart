@@ -1,0 +1,51 @@
+store_id,city,state,size_sqft,opening_date,monthly_footfall
+Store_1,Ahmedabad,Gujarat,8000,4/18/2024,18776
+Store_2,Delhi,Delhi,8000,4/25/2018,5963
+Store_3,Delhi,Delhi,8000,1/4/2021,6425
+Store_4,Bhubaneswar,Odisha,2000,12/22/2017,7329
+Store_5,Chandigarh,Punjab,5000,4/1/2020,19798
+Store_6,Kolkata,West Bengal,5000,2/11/2020,8794
+Store_7,Kolkata,West Bengal,2000,8/3/2023,11872
+Store_8,Chandigarh,Punjab,2000,9/12/2021,10025
+Store_9,Kolkata,West Bengal,2000,7/22/2017,5447
+Store_10,Delhi,Delhi,5000,2/27/2020,5147
+Store_11,Delhi,Delhi,2000,8/25/2020,6404
+Store_12,Kolkata,West Bengal,5000,4/30/2023,19970
+Store_13,Imphal,Manipur,5000,7/20/2018,19223
+Store_14,Chandigarh,Punjab,8000,2/24/2018,7764
+Store_15,Imphal,Manipur,2000,7/1/2017,17914
+Store_16,Guwahati,Assam,8000,1/19/2019,14213
+Store_17,Bangalore,Karnataka,5000,3/6/2017,18401
+Store_18,Chennai,Tamil Nadu,2000,1/10/2024,10005
+Store_19,Chandigarh,Punjab,5000,5/13/2019,5928
+Store_20,Bangalore,Karnataka,5000,11/28/2021,5272
+Store_21,Chandigarh,Punjab,2000,11/13/2019,8094
+Store_22,Ahmedabad,Gujarat,2000,4/6/2020,5800
+Store_23,Chandigarh,Punjab,2000,9/22/2020,12852
+Store_24,Mumbai,Maharashtra,5000,6/1/2022,8101
+Store_25,Ahmedabad,Gujarat,5000,6/16/2020,16165
+Store_26,Bhubaneswar,Odisha,2000,4/3/2021,15200
+Store_27,Chandigarh,Punjab,8000,4/22/2022,13539
+Store_28,Imphal,Manipur,2000,1/13/2018,12120
+Store_29,Kolkata,West Bengal,2000,3/20/2017,6459
+Store_30,Chennai,Tamil Nadu,2000,2/16/2024,12321
+Store_31,Delhi,Delhi,2000,8/22/2023,14807
+Store_32,Imphal,Manipur,2000,11/27/2024,12465
+Store_33,Chandigarh,Punjab,8000,4/29/2017,8899
+Store_34,Ahmedabad,Gujarat,2000,5/12/2021,8518
+Store_35,Imphal,Manipur,2000,7/11/2022,7943
+Store_36,Bhubaneswar,Odisha,8000,9/10/2019,18681
+Store_37,Kolkata,West Bengal,5000,7/11/2023,15178
+Store_38,Bangalore,Karnataka,2000,8/11/2023,10984
+Store_39,Kolkata,West Bengal,5000,3/13/2021,7587
+Store_40,Delhi,Delhi,5000,4/26/2020,16841
+Store_41,Bhubaneswar,Odisha,2000,7/12/2019,10947
+Store_42,Kolkata,West Bengal,8000,2/11/2024,11378
+Store_43,Bangalore,Karnataka,5000,9/24/2020,10214
+Store_44,Ahmedabad,Gujarat,8000,5/10/2024,6135
+Store_45,Bangalore,Karnataka,5000,9/17/2023,18619
+Store_46,Delhi,Delhi,8000,3/24/2023,19415
+Store_47,Guwahati,Assam,2000,9/8/2021,13025
+Store_48,Kolkata,West Bengal,8000,11/29/2019,7306
+Store_49,Bangalore,Karnataka,8000,5/27/2017,10368
+Store_50,Delhi,Delhi,5000,8/31/2019,8807
